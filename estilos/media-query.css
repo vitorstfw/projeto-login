@@ -7,7 +7,7 @@ body{
 
   section#login{
     width: 80vw;
-    height: 180px;
+    height: 360px;
   }
 section#login > div#imagem{
      background-position: center;
