@@ -30,7 +30,7 @@ div#formulario > p{
 @media screen and (min-width:700px) and (max-width:992px){
 
 body{
-   background-color: white;
+   background-image: linear-gradient(to bottom, #4f88bc, #17b3a6 );
 }
 
   section#login{
@@ -59,7 +59,7 @@ div#formulario > p{
 
 
 body{
-    background-image: linear-gradient(to bottom, #427EB8, #55d9257a );
+    background-image: linear-gradient(to bottom, #427EB8,  #17b3a6 );
 }
 
     section#login{
