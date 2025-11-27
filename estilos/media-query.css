@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-@media screen and (min-width:600px) and (max-width:690px){
+@media screen and (min-width:600px) and (max-width:700px){
 body{
     background-color: #427EB8;
 }
@@ -27,7 +27,7 @@ div#formulario > p{
 }
 }
 
-@media screen and (min-width:695px) and (max-width:992px){
+@media screen and (min-width:700px) and (max-width:992px){
 
 body{
     background-image: linear-gradient(to bottom, #427EB8, #55d9257a );
