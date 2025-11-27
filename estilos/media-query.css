@@ -6,7 +6,7 @@ body{
 }
 }
 
-@media screen and (min-width:670px) and (max-width:992px){
+@media screen and (min-width:695px) and (max-width:992px){
 
 body{
     background-image: linear-gradient(to bottom, #427EB8, #55d9257a );
